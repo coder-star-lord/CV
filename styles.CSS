@@ -1,0 +1,90 @@
+    body {
+        margin: 0px;
+        background-color: #DFF6FF;
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: center;
+        width: auto;
+        margin: 0 auto 0 auto;
+        font-family: 'Dancing Script', cursive;
+        font-size: 6em;
+        color: #1F4690;
+        /*its margin: top right bottom left in clockwise direction*/
+    }
+    
+    h2 {
+        color: #1363DF;
+    }
+    
+    h3 {
+        color: #11999e;
+    }
+    
+    .chilimg {
+        float: right;
+        width: 25%;
+        margin-left: 25px;
+    }
+    
+    .skill-row {
+        width: 35%;
+        margin: 100px auto 150px auto;
+        text-align: left;
+    }
+    
+    .profile {
+        border-radius: 100%;
+    }
+    
+    .codeimg {
+        width: 30%;
+        float: left;
+        margin-right: 25px;
+    }
+    
+    .inline {
+        display: inline;
+    }
+    
+    .top {
+        height: auto;
+        margin-top: 60px;
+        position: relative;
+        padding-top: 100px;
+    }
+    
+    .contact-me {
+        margin: 30px auto 30px auto;
+    }
+    
+    .footer-link {
+        padding: 0 15px 0 15px;
+        color: #11999e;
+        font-size: 1em;
+        inset-inline: ;
+    }
+    /* .links {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    } */
+    
+    .bottom {
+        width: auto;
+        position: relative;
+        bottom: 10px;
+    }
+    
+    .right_cloud {
+        position: absolute;
+        right: 20%;
+        top: 50px;
+    }
+    
+    .left_cloud {
+        position: absolute;
+        left: 22%;
+        top: auto
+    }
